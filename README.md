@@ -70,3 +70,4 @@ Each section includes visual aids:
 This project demonstrates how probability concepts can be applied to real-world sports data. Steph Curry shows a high volume of 3-point shots, but his accuracy slightly drops in high-pressure moments such as the last 2 minutes of the game.
 
 ---
+Google slides link for presentation: https://docs.google.com/presentation/d/1YUVPneLwcG41SEq8khD9kteMPjh71bFuc3BwMwmmRWU/edit?usp=sharing
